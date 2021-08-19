@@ -1,1 +1,1 @@
-vs code üzerinde yazlab projesini başlatarak çalıştırabilirsiniz
+
